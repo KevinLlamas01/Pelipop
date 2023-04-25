@@ -1,0 +1,111 @@
+
+body{
+	background-color: #1B2426;
+}
+
+.navbar{
+	background-color: black;
+	height: 100px;
+}
+.navbar a{
+	color: white;
+}
+.dropdown-menu a{
+	color: black;
+}
+
+.navbar a:hover{
+	color: grey;
+}
+
+#genero{
+	width: 1000px;
+}
+
+#margen{
+	margin-left: 35px;
+}
+
+.dropdown-menu:hover{
+	color: grey;
+}
+
+#margen2{
+	margin-left: 900px;
+}
+
+label, h1, small{
+	color: white;
+}
+
+.btn-new{
+	background-color: #1C3753;
+	color: white;
+}
+
+.btn-new:hover{
+	color: grey;
+}
+
+.btn-new2{
+	background-color: #004D9D;
+	color: white;
+}
+
+.btn-new2:hover{
+	color: grey;
+}
+
+{
+    margin: 0;
+    padding: 0;
+}
+
+.cell{
+    width: 400px;
+    height: 600px;
+    margin:0 15px;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.cell img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.titulo{
+	font-size: 88px;
+	font-style: italic;
+	text-decoration: underline;
+}
+
+.nav-2{
+	color: white;
+}
+.nav-2:hover{
+	color: grey;
+}
+
+h1, h2, h3, label, textarea, input, a, select, option, small{
+	font-family: 'Roboto', sans-serif;
+}
+
+.tam{
+	font-size: 60px;
+}
+
+.margen_left{
+	margin-left: 1.3%;
+}
+
+.imagen{
+	width: 200px;
+	height: 120px;
+}
+
+.bi{
+	font-size: 20px;
+	color: white;
+}
